@@ -1,2 +1,2 @@
-# Web-Development-proj
-Web Development Projects
+# Projects
+My Projects
